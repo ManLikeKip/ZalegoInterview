@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Zalego Interview</string>
+    <string name="crash_toast_text">Hi Zalego Interview App has crashed, kindly send crash report to the developer</string>
+    <string-array name="course_of_study">
+        <item >Android</item>
+        <item >Web</item>
+        <item >iOS</item>
+        <item >Windows</item>
+    </string-array>
+
+    <string name="permission_rationale">"Storage permission is needed for fetching images from Gallery."</string><string name="descr_image">Image</string>
+</resources>
